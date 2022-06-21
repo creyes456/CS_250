@@ -2,7 +2,7 @@
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
     
-    I interpret user needs by gathering the information for project requirements and prioritizing the requested functionality. From there I will develop the product starting with the main and most important functionality. User stories are very helpful with this method, because they prioritize customer requests and provide test cases for specific functions. This makes the development process much more efficient and helps to ensure the accuracy of the end product.
+   I interpret user needs by gathering the information for project requirements and prioritizing the requested functionality. From there I will develop the product starting with the main and most important functionality. User stories are very helpful with this method, because they prioritize customer requests and provide test cases for specific functions. This makes the development process much more efficient and helps to ensure the accuracy of the end product.
     
 # How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
